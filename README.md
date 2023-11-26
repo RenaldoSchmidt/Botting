@@ -11,7 +11,7 @@ The websites that sell sneakers online try to prevent people from using sneaker 
 <br />
 
 <p align="center">
-<img src="https://imgur.com/a/xzGGzcG" height="65%" width="65%" alt="Frankie Grande, Ariana Grande et al. are posing for a picture"/>
+<img src="https://i.imgur.com/xzGGzcG.png" height="65%" width="65%" alt="Exmaple of Tasks in Nike Shoe Bot"/>
 </p>
 <h2>Languages Used</h2>
 
